@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pau</h1>
 <h3 align="center">A passionate growing fullstack developer from Spain</h3>
 
-- 🔭 I’m currently working on **Harmony, a music streaming platform inspired by Spotify.**
-
-- 🌱 I’m currently learning **Master in Software Development at Assembler Institute of Technology.**
-
 - 📫 How to reach me **tomas10pau@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
